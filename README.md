@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 MNIST Digit Classifier (NumPy Only)
+# 🧠 MNIST Digit Classifier (NumPy Only) 95% Accuracy
 
 This project is a simple **digit recognizer** built from scratch using **NumPy**, trained on the **MNIST** dataset (via `train.csv`), and can also predict digits from custom images (like `9.png`).
 
